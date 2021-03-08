@@ -1,6 +1,6 @@
 # DEPRECATED
 
-Consider to use https://github.com/jeremykendall/php-domain-parser as maintained alternative.
+Consider to use https://github.com/jeremykendall/php-domain-parser and https://github.com/utopia-php/domains as maintained alternatives. 
 
 # TLDExtract
 
